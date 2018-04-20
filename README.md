@@ -24,6 +24,6 @@ A collection of vegetarian recipes
 - [Spicy Tomato and Lentil Soup](spicy_tomato_and_lentil_soup.md)
 - [Stir-Fry](stir-fry.md)
 - [Thai Yellow Curry](thai_yellow_curry.md)
-- [Vanilla Cream][vanilla_cream.md]
+- [Vanilla Cream](vanilla_cream.md)
 - [Vegetable Pasta](vegetable_pasta.md)
 - [Wholewheat Bread](wholewheat_bread.md)
