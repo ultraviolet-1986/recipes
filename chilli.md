@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-4 cloves Garlic, grated
-4-5 Jalapeños, chopped
-1/2 bag frozen Mixed Peppers
-Handful chopped Celery
-2 tins Chopped Tomatoes
-250ml Vegetable Stock
-1/2 tube Tomato Purée
-1 can Kidney Beans, drained
-1 can Pinto Beans, drained
-1/2 tsp Chilli Powder
-2 tsp Ground Cumin
-1 tsp Oregano
+- 4 cloves Garlic, grated
+- 4-5 Jalapeños, chopped
+- 1/2 bag frozen Mixed Peppers
+- Handful chopped Celery
+- 2 tins Chopped Tomatoes
+- 250ml Vegetable Stock
+- 1/2 tube Tomato Purée
+- 1 can Kidney Beans, drained
+- 1 can Pinto Beans, drained
+- 1/2 tsp Chilli Powder
+- 2 tsp Ground Cumin
+- 1 tsp Oregano
 
 ## Preparation
 

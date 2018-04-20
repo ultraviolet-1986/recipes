@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-250g Pasta
-1 carton Passata
-1/2 tsp Chilli Powder
-2 tsp Ground Cumin
-1 tsp Oregano
-3-4 Jalapeños, chopped
-1/2 bag frozen Chopped Peppers
-1 can Kidney Beans, drained
-2 large handfuls Grated Cheese
+- 250g Pasta
+- 1 carton Passata
+- 1/2 tsp Chilli Powder
+- 2 tsp Ground Cumin
+- 1 tsp Oregano
+- 3-4 Jalapeños, chopped
+- 1/2 bag frozen Chopped Peppers
+- 1 can Kidney Beans, drained
+- 2 large handfuls Grated Cheese
 
 ## Preparation
 

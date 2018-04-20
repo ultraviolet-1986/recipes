@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-2 cooking apples, peeled and diced
-100g plain flour
-50g margarine
-50g sugar
-2tbsp sugar
+- 2 cooking apples, peeled and diced
+- 100g plain flour
+- 50g margarine
+- 50g sugar
+- 2tbsp sugar
 
 ## Preparation
 

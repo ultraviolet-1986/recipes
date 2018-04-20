@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-2tbsp Balti Paste
-400g Red Lentils
-1 can Chickpeas, drained
-1l Water
+- 2tbsp Balti Paste
+- 400g Red Lentils
+- 1 can Chickpeas, drained
+- 1l Water
 
 ## Preparation
 

@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-200ml Milk
-4 tbsp Bread Flour
-2 tbsp Olive Oil
-2 large handfuls grated Cheese
-250g Pasta
-Breadcrumbs
-1 head Broccoli, chopped (optional)
+- 200ml Milk
+- 4 tbsp Bread Flour
+- 2 tbsp Olive Oil
+- 2 large handfuls grated Cheese
+- 250g Pasta
+- Breadcrumbs
+- 1 head Broccoli, chopped (optional)
 
 ## Preparation
 
