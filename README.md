@@ -17,3 +17,13 @@ A collection of vegetarian recipes
 - [Panzanella](panzanella.md)
 - [Preichotel](preischotel.md)
 - [Remoulade](remoulade.md)
+- [Ricotta and Spinach Bake](ricotta_and_spinach_bake.md)
+- [Roast Vegetables and Halloumi](roast_vegetables_and_halloumi.md)
+- [Spaghetti and Wheatballs](spaghetti_and_wheatballs.md)
+- [Spaghetti Carbonara](spaghetti_carbonara.md)
+- [Spicy Tomato and Lentil Soup](spicy_tomato_and_lentil_soup.md)
+- [Stir-Fry](stir-fry.md)
+- [Thai Yellow Curry](thai_yellow_curry.md)
+- [Vanilla Cream][vanilla_cream.md]
+- [Vegetable Pasta](vegetable_pasta.md)
+- [Wholewheat Bread](wholewheat_bread.md)
