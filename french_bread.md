@@ -3,9 +3,9 @@
 ## Ingredients
 
 - 200g warm water (weighs 1kg on scales in pyrex jug)
-- 1tsp salt (level)
+- 1 tsp salt (level)
 - 360g bread flour
-- 1tsp yeast (level)
+- 1 tsp yeast (level)
 
 ## Preparation
 

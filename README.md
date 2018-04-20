@@ -10,4 +10,7 @@ A collection of vegetarian recipes
 - [Enchilada Bake](enchilada_bake.md)
 - [Falafel](falafel.md)
 - [French Bread](french_bread.md)
+- [Hummus](hummus.md)
+- [Lasagne](lasagne.md)
+- [Lentil Bolognese](lentil_bolognese.md)
 - [Macaroni Cheese](macaroni_cheese.md)
