@@ -14,3 +14,6 @@ A collection of vegetarian recipes
 - [Lasagne](lasagne.md)
 - [Lentil Bolognese](lentil_bolognese.md)
 - [Macaroni Cheese](macaroni_cheese.md)
+- [Panzanella](panzanella.md)
+- [Preichotel](preischotel.md)
+- [Remoulade](remoulade.md)
