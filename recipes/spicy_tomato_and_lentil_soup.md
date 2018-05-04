@@ -30,4 +30,4 @@ the soup is not too thick - add a small amount of water to get the soup to the
 preferred consistency.
 
 Leave the mixture thickened and add single portion to a handful of grated cheese
-and 100g cooked pasta for a quick makeshift lentil bolognese.
+and 100g cooked pasta for a quick (but filling) makeshift lentil bolognese.
