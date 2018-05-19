@@ -8,6 +8,7 @@ A collection of vegetarian recipes
 - [Chickpea and Lentil Dahl](chickpea_and_lentil_dahl.md)
 - [Chilli](chilli.md)
 - [Enchilada Bake](enchilada_bake.md)
+- [Enchiladas](enchiladas.md)
 - [Falafel](falafel.md)
 - [French Bread](french_bread.md)
 - [Hummus](hummus.md)
