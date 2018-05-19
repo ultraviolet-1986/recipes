@@ -15,7 +15,7 @@
 
 ## Preparation
 
-**Prerequisites:** If using frozen bean mixture go straight to step 3
+**Prerequisites:** If using frozen bean mixture go straight to step 3.
 
 1. Cut open the carton of passata and mix in the chilli powder, cumin and
    oregano.
