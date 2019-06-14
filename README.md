@@ -5,6 +5,7 @@ A collection of vegetarian recipes
 ## Table of Contents
 
 - [Apple Crumble](recipes/apple_crumble.md)
+- [Baked Cannellini Beans with Tomatoes and Rosemary](recipes/baked_cannellini_beans_with_tomatoes_and_rosemary.md)
 - [Cheese Sauce / Parsley Sauce](recipes/cheese_parsley_sauce.md)
 - [Chickpea and Lentil Dahl](recipes/chickpea_and_lentil_dahl.md)
 - [Chilli](recipes/chilli.md)
